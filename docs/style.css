@@ -1,0 +1,17 @@
+html {
+    background-color: rgb(35, 145, 35);
+}
+
+h2, h3 {
+    color: white;
+    text-align: left;
+
+}
+
+h3 {
+    margin: 10px;
+}
+
+div {
+    margin: 50px;
+}
